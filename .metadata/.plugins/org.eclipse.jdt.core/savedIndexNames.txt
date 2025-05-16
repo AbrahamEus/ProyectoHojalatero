@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\ADMIN\Desktop\Curso_Java_05_05_2025\PROYECTOS_POO\ProyectoHojalatero\.metadata\.plugins\org.eclipse.jdt.core
+4078204657.index
