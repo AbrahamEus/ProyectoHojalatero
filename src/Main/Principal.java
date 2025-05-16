@@ -138,7 +138,6 @@ public class Principal {
 				} catch (Exception e) {
 					// TODO: handle exception
 					System.out.println("Error al eliminar\n");
-					System.out.println("Hola esta es una prueba ");
 				}
 				break;
 			case 6:
